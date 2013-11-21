@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<username></username>
+	<password></password>
+	<user_agent>Million/241 (t03gchn; t03gzc; 4.1.2) samsung/t03gzc/t03gchn:4.1.2/JZO54K/N7100ZCDMD3:user/release-keys GooglePlay</user_agent>
+	<profile>1</profile>
+	<option> 
+		<fairy_battle_first>0</fairy_battle_first>
+		<allow_bc_insuffient>1</allow_bc_insuffient>
+		<this_ap_only>-1</this_ap_only>
+		<auto_add_point>0</auto_add_point>
+		<allow_attack_same_fairy>0</allow_attack_same_fairy>
+		<night_mode>1</night_mode>
+		<receive_battle_present>1</receive_battle_present>
+		<debug>0</debug>
+	</option>
+	<use>
+		<auto_use_ap>1</auto_use_ap>
+		<auto_use_bc>1</auto_use_bc>
+		<strategy>
+			<ap>
+				<low>1</low>
+				<half>1</half>
+				<full_low>10</full_low>
+			</ap>
+			<bc>
+				<low>50</low>
+				<half>1</half>
+				<full_low>10</full_low>
+			</bc>
+		</strategy>
+	</use>
+	<deck>
+		
+		<deck_profile>
+			<name>FairyDeck</name>
+			<no>0</no>
+			<bc>0</bc>
+		</deck_profile>
+		<deck_profile>
+			<name>RareFairyDeck</name>
+			<no>0</no>
+			<bc>0</bc>
+		</deck_profile>
+		<deck_profile>
+			<name>GuildFairyDeck</name>
+			<no>0</no>
+			<bc>0</bc>
+		</deck_profile>
+		<deck_profile>
+			<name>FriendFairyBattleRare</name>
+			<no>0</no>
+			<bc>0</bc>
+		</deck_profile>
+		<deck_profile>
+			<name>FriendFairyBattleNormal</name>
+			<no>0</no>
+			<bc>0</bc>
+		</deck_profile>
+	</deck>
+	<sell_card>
+		
+		<policy>sell</policy>
+		
+	</sell_card>
+</config>
